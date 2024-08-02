@@ -1,0 +1,14 @@
+{
+  "name": "mocha-parallel-bug",
+  "version": "1.0.0",
+  "description": "An example of a mocha parallel bug",
+  "type": "module",
+  "scripts": {
+    "bug": "npx mocha; echo \"mocha status: $?\""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "10.7.0"
+  }
+}

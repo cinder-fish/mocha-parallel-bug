@@ -1,0 +1,5 @@
+{
+  "spec": ["test/*.test.js"],
+  "parallel": true,
+  "jobs": 2
+}
